@@ -1,0 +1,14 @@
+{
+  "name": "javascript-dojo",
+  "version": "1.0.0",
+  "description": "Let's learn some JavaScript today",
+  "scripts": {
+    "test": "./node_modules/grunt-cli/bin/grunt jasmine"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-cli": "^1.2.0",
+    "grunt-contrib-jasmine": "^1.0.3",
+    "jasmine": "^2.5.2"
+  }
+}
