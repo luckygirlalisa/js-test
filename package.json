@@ -9,6 +9,12 @@
     "grunt": "^1.0.1",
     "grunt-cli": "^1.2.0",
     "grunt-contrib-jasmine": "^1.0.3",
-    "jasmine": "^2.5.2"
+    "jasmine": "^2.5.2",
+    "karma-chrome-launcher": "^2.2.0"
+  },
+  "dependencies": {
+    "karma": "^1.7.1",
+    "karma-cli": "^1.0.1",
+    "karma-jasmine": "^1.1.0"
   }
 }
